@@ -1,0 +1,20 @@
+
+
+1/29
+keystore password Scrum_Hill_87419017891
+keystore alias name IC-4
+please give me webserver source
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore intuitivechess4.keystore app-release-unsigned.apk IC-4
+
+
+https://build.phonegap.com/apps
+login: sergio.tadela@gmail.com
+passw: Scrum_Hill_87419017891
+To liberate the Key, just use the same passw em both fields
+
+
+intuitivechessapp3.keystore
+alias: intutivechess3
+passw: OK
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore intuitivechess4.keystore app-release-unsigned.apk intuitivechess4
+

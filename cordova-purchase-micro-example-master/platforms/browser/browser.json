@@ -1,0 +1,23 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cc.fovea.cordova.purchase": {
+      "PACKAGE_NAME": "com.intuitivechessapp3.app"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.intuitivechessapp3.app"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [],
+  "plugin_metadata": {
+    "cc.fovea.cordova.purchase": "8.1.1",
+    "cordova-plugin-whitelist": "1.3.4"
+  }
+}
